@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\hecto\source\C++ Projects\Project_1_Linked_List\Project_1_Linked_List\LinkedList.h(995): warning C4715: 'LinkedList<int>::isNode': not all control paths return a value
+C:\Users\hecto\source\C++ Projects\Project_1_Linked_List\Project_1_Linked_List\LinkedList.h(995): warning C4715: 'LinkedList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::isNode': not all control paths return a value
+  Project_1_Linked_List.vcxproj -> C:\Users\hecto\source\C++ Projects\Project_1_Linked_List\x64\Debug\Project_1_Linked_List.exe
